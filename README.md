@@ -13,14 +13,4 @@
 
 </div>
 
-This repository gathers clear, well-documented implementations of classic and modern ML/DL algorithms. Each algorithm should include:
-
-- A short README explaining the algorithm and use cases
-
-- Ready-to-run code (Python notebooks or scripts)
-
-- Example datasets or links to datasets
-
-- Usage instructions and example commands
-
-- Basic evaluation and expected results
+This repository gathers clear, well-documented implementations of classic and modern ML/DL algorithms.
